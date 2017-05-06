@@ -29,6 +29,10 @@ li {
   background-color: pink;
 }
 
+#autocomplete li:hover{
+  cursor: pointer;
+}
+
 #weather{
   background-color: lightgreen;
   text-align: center;
